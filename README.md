@@ -2,6 +2,8 @@
 
 TODO: Write a gem description
 
+[![Build Status](https://travis-ci.org/chrhsmt/mini_test_practice.svg?branch=master)](https://travis-ci.org/chrhsmt/mini_test_practice)
+
 ## Installation
 
 Add this line to your application's Gemfile:
