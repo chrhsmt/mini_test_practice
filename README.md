@@ -1,4 +1,6 @@
-# MiniTestPractice [![Build Status](https://travis-ci.org/chrhsmt/mini_test_practice.svg?branch=master)](https://travis-ci.org/chrhsmt/mini_test_practice) [![Coverage Status](https://coveralls.io/repos/chrhsmt/mini_test_practice/badge.png?branch=master)](https://coveralls.io/r/chrhsmt/mini_test_practice?branch=master) [![Code Climate](https://codeclimate.com/repos/546ddbe869568032b205a32b/badges/9fb87c485eaeeae00e72/gpa.svg)](https://codeclimate.com/repos/546ddbe869568032b205a32b/feed) [![Dependency Status](https://gemnasium.com/chrhsmt/mini_test_practice.svg)](https://gemnasium.com/chrhsmt/mini_test_practice)
+# MiniTestPractice 
+
+[![Build Status](https://travis-ci.org/chrhsmt/mini_test_practice.svg?branch=master)](https://travis-ci.org/chrhsmt/mini_test_practice) [![Coverage Status](https://coveralls.io/repos/chrhsmt/mini_test_practice/badge.png?branch=master)](https://coveralls.io/r/chrhsmt/mini_test_practice?branch=master) [![Code Climate](https://codeclimate.com/repos/546ddbe869568032b205a32b/badges/9fb87c485eaeeae00e72/gpa.svg)](https://codeclimate.com/repos/546ddbe869568032b205a32b/feed) [![Dependency Status](https://gemnasium.com/chrhsmt/mini_test_practice.svg)](https://gemnasium.com/chrhsmt/mini_test_practice) [![Inline docs](http://inch-ci.org/github/chrhsmt/mini_test_practice.svg?branch=master)](http://inch-ci.org/github/chrhsmt/mini_test_practice)
 
 minitest sample.
 
