@@ -1,8 +1,6 @@
-# MiniTestPractice
+# MiniTestPractice [![Build Status](https://travis-ci.org/chrhsmt/mini_test_practice.svg?branch=master)](https://travis-ci.org/chrhsmt/mini_test_practice)
 
-TODO: Write a gem description
-
-[![Build Status](https://travis-ci.org/chrhsmt/mini_test_practice.svg?branch=master)](https://travis-ci.org/chrhsmt/mini_test_practice)
+minitest sample.
 
 ## Installation
 
