@@ -94,5 +94,8 @@ class TestMiniTestPractice < MiniTest::Unit::TestCase
     assert_equal("Hello\n", out)
   end
 
+  def test
+    assert 1==1
+  end
 end
 
