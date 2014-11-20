@@ -1,4 +1,4 @@
-# MiniTestPractice [![Build Status](https://travis-ci.org/chrhsmt/mini_test_practice.svg?branch=master)](https://travis-ci.org/chrhsmt/mini_test_practice)
+# MiniTestPractice [![Build Status](https://travis-ci.org/chrhsmt/mini_test_practice.svg?branch=master)](https://travis-ci.org/chrhsmt/mini_test_practice) [![Coverage Status](https://coveralls.io/repos/chrhsmt/mini_test_practice/badge.png?branch=master)](https://coveralls.io/r/chrhsmt/mini_test_practice?branch=master)
 
 minitest sample.
 
